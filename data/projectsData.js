@@ -2,13 +2,13 @@ const projectsData = [
   {
     title: 'Denmark Energy Data Portal',
     description: 'EnergiDataPortal intends to embrace all Energinet’s initiatives that deal with open data, whether it be display, use or inspiration.',
-    imgSrc: '/static/images/EDP-logo.png',
+    imgSrc: '/static/images/default.png',
     href: 'https://energidataportal.dk/',
   },
   {
     title: 'Denmark Energy Data Service',
     description: 'Open energy data from Energinet to society',
-    imgSrc: '/static/images/eds-logo.svg',
+    imgSrc: '/static/images/default.svg',
     href: 'https://www.energidataservice.dk/',
   },
   {
